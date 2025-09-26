@@ -144,7 +144,6 @@ jupyter notebook analysis/college_analysis.ipynb
 - **Innomatics Research Labs** for guidance and resources
 - **Vishwanath Nyathani, Raghu Ram Aduri, Kanav Bansal, Harsha Mg** for mentorship
 - **Shiksha.com** for the data source
-- Teammate **Ranjitha K R** for collaboration
 
 ## 🔗 Useful Links
 
@@ -164,3 +163,4 @@ jupyter notebook analysis/college_analysis.ipynb
 **Project Status**: ✅ Completed  
 
 This version is clean, well-structured, and professional. It maintains all the important information while being much more readable.
+
